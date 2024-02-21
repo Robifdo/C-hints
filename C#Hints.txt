@@ -1,0 +1,14 @@
+ifileprovider
+	get the information about files and directories in the system.
+
+Imemorycache
+	The IMemoryCache represents a cache stored in the memory of the web server.
+
+IChangeToken 
+	Track the files and check if any changes occures or not in the tracking file.
+
+Out Keyword in C#
+	Used like pass by reference but with 'out' keyword.
+
+
+	
