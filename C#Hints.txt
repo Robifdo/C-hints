@@ -1,6 +1,9 @@
 ifileprovider
 	get the information about files and directories in the system.
 
+IApplicationBuilder
+	Provides mechanism to configure application request pipeline
+
 Imemorycache
 	The IMemoryCache represents a cache stored in the memory of the web server.
 
