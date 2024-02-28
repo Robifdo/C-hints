@@ -1,0 +1,52 @@
+<html lang=en></html> , <html lang=en-US></html>
+lang attribute is used for specifying he language.
+
+<p title="paragraph">iam paragraph</p>
+This title paragraph is used to diplay some information about the  element. When you hover it, it displays like tool tip
+
+<pre>
+Hi
+Iam Robin
+</pre>
+This is preformatted text and this is used to write paragraph like poem with line breaks.
+
+<b></b> bold text
+<strong></strong> Strong the text. This also bold.
+<i></i> italics the text.
+<em></em> This also do italics the texts.
+<cite></cite> This also renders in italics.
+<p><small>Robin</small></p> This do the small text text compared to others.
+<mark></mark> highlight the text.
+<del></del> make a strike through the text. delete tag
+<ins></ins> Makes the under line under the text. insert tag
+
+<blockquote></blockquote> This blockquote represent the source from another page. Always intend the source 
+
+<bdo dir="rtl"></bdo> Bidirectional override used to display text from right to legt and left to right.
+
+<img src="" alt=""></img> alt attribute provides the alternative text to the image
+
+
+favicon = It is the small image displayed in the top of the browser. Left to the browser title.
+
+<details>
+<summary>Showmore</syummary>
+<p>Hello word</p>
+</details>
+Above is used to create a dropdown icon to show the bellow word
+
+<time></time> used for displaying time
+
+<output></output> used for displaying the result of the calculation. TO display the dynamic content.
+
+<meter max = "100" value = "80"></meter> used for displaying the bar with the values.
+
+<kbd>ctrl</kbd>+<kbd></kbd> for mention keyboard input
+
+<bdi></bdi> used to mention sentence from the different language
+
+<wbr> used for make a line break inside the word.
+
+
+
+
